@@ -1,0 +1,5 @@
+ @import "tailwindcss";
+
+ @theme {
+  --radius-10: 10px; 
+}
